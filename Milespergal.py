@@ -1,0 +1,1 @@
+gas = float(input('Enter the amount you spend on gas: $'))
