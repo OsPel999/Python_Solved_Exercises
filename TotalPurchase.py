@@ -1,3 +1,4 @@
+#inputs the prices for each item
 item1 = float(input('Enter the price for the first item: $'))
 item2 = float(input('Enter the price for the second item: $'))
 item3 = float(input('Enter the price for the third item: $'))

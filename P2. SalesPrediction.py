@@ -1,4 +1,4 @@
-total_sales = float(input('Enter the projected amount of total sales: $'))
+total_sales = float(input('Enter the projected amount of total sales: $')) #inputs the total amount of sales
 
 profit_percentage = 0.23 #Represents the profit percentage.
 
